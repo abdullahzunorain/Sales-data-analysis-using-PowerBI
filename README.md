@@ -1,2 +1,2 @@
-# Sales_Insights
+# PowerBI Sales Insights Dashboard
  PowerBI Sales Insights Dashboard
